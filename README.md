@@ -1,4 +1,5 @@
 # transformer
+Transformer implmenetation in Julia
 
 # references
 
